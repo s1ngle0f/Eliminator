@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 118
+  controlID: 120
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 107
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -640,7 +640,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 7}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -873,9 +873,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.186515, y: 5.360684, z: -9.536509}
+    m_Target: {x: 254.25273, y: 464.09308, z: -398.43585}
     speed: 2
-    m_Value: {x: -10.186515, y: 5.360684, z: -9.536509}
+    m_Value: {x: 254.25273, y: 464.09308, z: -398.43585}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -922,9 +922,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15142651, y: -0.54736614, z: 0.10147618, w: -0.8167934}
+    m_Target: {x: -0.21833089, y: 0.17513357, z: -0.039865263, w: -0.95917886}
     speed: 2
-    m_Value: {x: -0.15157942, y: -0.5461434, z: 0.10124951, w: -0.8176182}
+    m_Value: {x: -0.21839555, y: 0.17369866, z: -0.03953864, w: -0.9594628}
   m_Size:
     m_Target: 10
     speed: 2
